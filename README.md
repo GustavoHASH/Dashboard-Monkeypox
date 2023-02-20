@@ -16,6 +16,7 @@ To install and run the dashboard, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/GustavoHASH/Dashboard-Monkeypox.git`
 2. Install the required Python packages: `pip install -r requirements.txt`
+3. 3. Run the dashboard: `python Dashboard.py`
 
 
 The dashboard should now be running on localhost.
